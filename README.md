@@ -61,6 +61,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 5. The corresponding `.ioc` file will be generated automatically.
+<img width="1513" height="1046" alt="Screenshot 2025-10-28 222649" src="https://github.com/user-attachments/assets/c8f6645a-de34-4b7e-9e25-072d7263dbd9" />
 
 
 6. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
