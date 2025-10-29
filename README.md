@@ -69,7 +69,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/b7abcd80-797d-451f-a7c3-23f303822423" />
 
 7. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-  
+  <img width="1409" height="947" alt="Screenshot 2025-10-29 121805" src="https://github.com/user-attachments/assets/aba3aa3f-4b95-4389-b599-8795cd5f088d" />
+
  
 8. Edit the generated main program as required.
   <img width="1312" height="1197" alt="Screenshot 2025-10-29 103759" src="https://github.com/user-attachments/assets/0afcc04f-9882-4bf8-8052-d9873fa66b9e" />
@@ -87,7 +88,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
     <img width="1918" height="1151" alt="Screenshot 2025-10-29 104314" src="https://github.com/user-attachments/assets/085b2aed-8773-47ed-93a1-1351a8e8c591" />
 
 
-13. Click **Run** to execute the program.
+12. Click **Run** to execute the program.
     
 ---
 
